@@ -1,0 +1,9 @@
+Public class mainJava{
+
+public static void main(String[]args){
+
+        System.out.println("My Real Repository");
+        System.out.println("I finally installed maven. Now i'm going to push everything back to my repository");
+        }
+
+        }
